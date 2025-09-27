@@ -13,8 +13,8 @@ const exo = Exo({
 });
 
 export const metadata: Metadata = {
-    title: "SleepTracker",
-    description: "Track your sleep patterns",
+    title: "ঘুম-ট্রাকার",
+    description: "ঘুমের প্যাটার্ন ট্র্যাক করুন",
 };
 
 export default function RootLayout({
