@@ -12,8 +12,8 @@ export default async function Navbar() {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex items-center">
                         <Link href="/" className="flex-shrink-0">
-                            <span className="text-md sm:text-2xl font-bold bg-gradient-to-r from-green-600 via-amber-500 to-cyan-500 bg-clip-text text-transparent">
-                                ঘুম-ট্রাকার via @parvezhossainme
+                            <span className="text-2xl font-bold bg-gradient-to-r from-green-600 via-amber-500 to-cyan-500 bg-clip-text text-transparent">
+                                ঘুম-ট্রাকার <span className="hidden lg:inline"> via @parvezhossainme</span>
 
                             </span>
                         </Link>
